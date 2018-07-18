@@ -1,0 +1,39 @@
+{
+  "name": "parsie",
+  "version": "1.0.0",
+  "description": "Parses emails, phone numbers and addresses with perfect, up-to-date accuracy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madelinecameron/parsie.git"
+  },
+  "keywords": [
+    "parsing",
+    "address",
+    "parsing",
+    "email",
+    "address",
+    "parsing",
+    "email",
+    "address",
+    "email",
+    "phone",
+    "number",
+    "phone",
+    "number",
+    "parsing",
+    "address"
+  ],
+  "author": "Madeline Cameron",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/madelinecameron/parsie/issues"
+  },
+  "homepage": "https://github.com/madelinecameron/parsie#readme",
+  "dependencies": {
+    "debug": "^3.1.0"
+  }
+}
